@@ -482,10 +482,7 @@ namespace Zatco
                 SqlDataAdapter type_ad = new SqlDataAdapter();
                 type_ad.SelectCommand = type;
                 type_ad.Fill(type_t);
-                play.ComboBox1.DataSource = type_t;
-                play.ComboBox1.DisplayMember = "PartType";
-                play.ComboBox1.ValueMember = "PartType";
-                play.ComboBox1.SelectedValue = Grid.CurrentRow.Cells[1].Value.ToString();
+                //play.Data_Grid_PartType.CurrentRow.Cells[1].Value.DataSource = type_t;
                 play.ShowDialog(this);
                 System.Media.SystemSounds.Exclamation.Play();
         }

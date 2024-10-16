@@ -19,7 +19,6 @@ namespace Zatco
             InitializeComponent();
             textBox1.Text = PartNumber;
             TextBoxChange();
-            comboBox1.SelectedValue = parttype;
             PartQuan();
         }
 
@@ -28,18 +27,13 @@ namespace Zatco
         {
             textBox1.Text = PartNumber;
             TextBoxChange();
-            comboBox1.SelectedValue = parttype;
         }
         public TextBox TextBox1
         {
             set { textBox1 = value; }
             get { return textBox1; }
         }
-        public ComboBox ComboBox1
-        {
-            set { comboBox1 = value; }
-            get { return comboBox1; }
-        }
+        
         public bool Lable_12
         { set { label12.Visible = value; } get { return label12.Visible; } }
 
@@ -57,32 +51,16 @@ namespace Zatco
             SqlDataAdapter type_ad = new SqlDataAdapter();
             type_ad.SelectCommand = type;
             type_ad.Fill(type_t);
-            comboBox1.DataSource = type_t;
-            comboBox1.DisplayMember = "PartType";
-            comboBox1.ValueMember = "PartType";
-            comboBox1.SelectedIndex = 0;
+            Data_Grid_PartType.DataSource = type_t;
        }
         private void PartQuan()
         {
-            comboBox1.DisplayMember = "PartType";
-            comboBox1.ValueMember = "PartType";
             SqlCommand com = new SqlCommand("part_storge", con);
             com.CommandType = CommandType.StoredProcedure;
             com.Parameters.AddWithValue("@PN", textBox1.Text);
-            com.Parameters.AddWithValue("@PT", comboBox1.SelectedValue);
+            com.Parameters.AddWithValue("@PT", Data_Grid_PartType.CurrentRow.Cells[1].Value);
             con.Open();
             SqlDataReader data = com.ExecuteReader();
-            while (data.Read())
-            {
-                if (data["Location"] != DBNull.Value) label7.Text = data["Location"].ToString();
-                else label7.Text = "Null";
-                label7.Visible = true;
-                label8.Visible = true;
-                label9.Visible = true;
-                label8.Text = data["Quantity"].ToString();
-                label9.Text = data["Discription"].ToString();
-
-            }
             con.Close();
 
             ///////////////////////////////////////////////////////
@@ -94,7 +72,7 @@ namespace Zatco
                     SqlCommand grid_Com = new SqlCommand("Out_part", con);
                     grid_Com.CommandType = CommandType.StoredProcedure;
                     grid_Com.Parameters.AddWithValue("@PN", textBox1.Text);
-                    grid_Com.Parameters.AddWithValue("@PT", comboBox1.SelectedValue);
+                    grid_Com.Parameters.AddWithValue("@PT", Data_Grid_PartType.CurrentRow.Cells[1].Value);
                     DataTable Out = new DataTable();
                     SqlDataAdapter sda = new SqlDataAdapter(grid_Com);
                     sda.Fill(Out);
@@ -104,7 +82,7 @@ namespace Zatco
                     SqlCommand IN_COM = new SqlCommand("in_Part", con);
                     IN_COM.CommandType = CommandType.StoredProcedure;
                     IN_COM.Parameters.AddWithValue("@PN", textBox1.Text);
-                    IN_COM.Parameters.AddWithValue("@PT", comboBox1.SelectedValue);
+                    IN_COM.Parameters.AddWithValue("@PT", Data_Grid_PartType.CurrentRow.Cells[1].Value);
                     DataTable IN = new DataTable();
                     SqlDataAdapter IN_sda = new SqlDataAdapter(IN_COM);
                     IN_sda.Fill(IN);
@@ -117,7 +95,7 @@ namespace Zatco
                     SqlCommand Date_grid_Com = new SqlCommand("Date_Out_part", con);
                     Date_grid_Com.CommandType = CommandType.StoredProcedure;
                     Date_grid_Com.Parameters.AddWithValue("@PN", textBox1.Text);
-                    Date_grid_Com.Parameters.AddWithValue("@PT", comboBox1.SelectedValue);
+                    Date_grid_Com.Parameters.AddWithValue("@PT", Data_Grid_PartType.CurrentRow.Cells[1].Value);
                     Date_grid_Com.Parameters.AddWithValue("@df", dateTimePicker1.Text);
                     Date_grid_Com.Parameters.AddWithValue("@dt", dateTimePicker2.Text);
                     DataTable Table_Out = new DataTable();
@@ -129,7 +107,7 @@ namespace Zatco
                     SqlCommand d_grid_Com = new SqlCommand("date_in_Part", con);
                     d_grid_Com.CommandType = CommandType.StoredProcedure;
                     d_grid_Com.Parameters.AddWithValue("@PN", textBox1.Text);
-                    d_grid_Com.Parameters.AddWithValue("@PT", comboBox1.SelectedValue);
+                    d_grid_Com.Parameters.AddWithValue("@PT", Data_Grid_PartType.CurrentRow.Cells[1].Value);
                     d_grid_Com.Parameters.AddWithValue("@df", dateTimePicker1.Text);
                     d_grid_Com.Parameters.AddWithValue("@dt", dateTimePicker2.Text);
                     DataTable d_IN = new DataTable();
@@ -168,17 +146,9 @@ namespace Zatco
             textBox1.AutoCompleteSource = AutoCompleteSource.CustomSource;
             
         }
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            comboBox1.DisplayMember = "PartType";
-            comboBox1.ValueMember = "PartType";
-            PartQuan();
-        }
+      
 
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-            PartQuan();
-        }
+        
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
@@ -219,7 +189,7 @@ namespace Zatco
                 }
                 else if (choise == DialogResult.No)
                 {
-                    add.part(textBox1.Text, comboBox1.SelectedValue.ToString());
+                    //add.part(textBox1.Text, comboBox1.SelectedValue.ToString());
                 }
             }
             else if (Owner.Name == "Add_Group")
@@ -232,7 +202,7 @@ namespace Zatco
                 }
                 else if (choise == DialogResult.No)
                 {
-                    add.part(textBox1.Text, comboBox1.SelectedValue.ToString());
+                    //add.part(textBox1.Text, comboBox1.SelectedValue.ToString());
                 }
             }
             else if (Owner.Name == "new_inv")
@@ -349,6 +319,9 @@ namespace Zatco
 
         }
 
-        
+        private void Data_Grid_PartType_CurrentCellChanged(object sender, EventArgs e)
+        {
+            PartQuan();
+        }
     }
 }

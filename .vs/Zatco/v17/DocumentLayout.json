@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "E:\\Zatco\\GitHub\\Zatco\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|e:\\zatco\\github\\zatco\\zatco\\home page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|E:\\Zatco\\GitHub\\Zatco\\zatco\\search_part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|solutionrelative:zatco\\search_part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|e:\\zatco\\github\\zatco\\zatco\\search_part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|solutionrelative:zatco\\search_part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|E:\\Zatco\\GitHub\\Zatco\\zatco\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|solutionrelative:zatco\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|E:\\Zatco\\GitHub\\Zatco\\zatco\\home page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|solutionrelative:zatco\\home page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|E:\\Zatco\\GitHub\\Zatco\\zatco\\home page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|solutionrelative:zatco\\home page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|E:\\Zatco\\GitHub\\Zatco\\zatco\\home page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|solutionrelative:zatco\\home page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|E:\\Zatco\\GitHub\\Zatco\\zatco\\home page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{953B1CF2-A0DA-4663-B786-705FFB9E3E6E}|Zatco\\Zatco.csproj|solutionrelative:zatco\\home page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,38 +39,73 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "E:\\Zatco\\GitHub\\Zatco\\Zatco\\Inventory.cs",
+              "RelativeDocumentMoniker": "Zatco\\Inventory.cs",
+              "ToolTip": "E:\\Zatco\\GitHub\\Zatco\\Zatco\\Inventory.cs",
+              "RelativeToolTip": "Zatco\\Inventory.cs",
+              "ViewState": "AQIAANMBAAAAAAAAAAAmwOQBAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:56:07.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "search_Part.cs",
+              "DocumentMoniker": "E:\\Zatco\\GitHub\\Zatco\\Zatco\\search_Part.cs",
+              "RelativeDocumentMoniker": "Zatco\\search_Part.cs",
+              "ToolTip": "E:\\Zatco\\GitHub\\Zatco\\Zatco\\search_Part.cs",
+              "RelativeToolTip": "Zatco\\search_Part.cs",
+              "ViewState": "AQIAACYBAAAAAAAAAAAqwEMBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:33:30.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "search_Part.cs [Design]",
+              "DocumentMoniker": "E:\\Zatco\\GitHub\\Zatco\\Zatco\\search_Part.cs",
+              "RelativeDocumentMoniker": "Zatco\\search_Part.cs",
+              "ToolTip": "E:\\Zatco\\GitHub\\Zatco\\Zatco\\search_Part.cs [Design]",
+              "RelativeToolTip": "Zatco\\search_Part.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:21:21.559Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Home Page.Designer.cs",
               "DocumentMoniker": "E:\\Zatco\\GitHub\\Zatco\\Zatco\\Home Page.Designer.cs",
               "RelativeDocumentMoniker": "Zatco\\Home Page.Designer.cs",
               "ToolTip": "E:\\Zatco\\GitHub\\Zatco\\Zatco\\Home Page.Designer.cs",
               "RelativeToolTip": "Zatco\\Home Page.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T23:26:58.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T23:26:58.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Home Page.cs",
               "DocumentMoniker": "E:\\Zatco\\GitHub\\Zatco\\Zatco\\Home Page.cs",
               "RelativeDocumentMoniker": "Zatco\\Home Page.cs",
               "ToolTip": "E:\\Zatco\\GitHub\\Zatco\\Zatco\\Home Page.cs",
               "RelativeToolTip": "Zatco\\Home Page.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T23:22:06.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T23:22:06.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Home Page.cs [Design]",
               "DocumentMoniker": "E:\\Zatco\\GitHub\\Zatco\\Zatco\\Home Page.cs",
               "RelativeDocumentMoniker": "Zatco\\Home Page.cs",
               "ToolTip": "E:\\Zatco\\GitHub\\Zatco\\Zatco\\Home Page.cs [Design]",
               "RelativeToolTip": "Zatco\\Home Page.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T23:21:25.091Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-15T23:21:25.091Z"
             }
           ]
         }
