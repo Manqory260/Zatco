@@ -6,6 +6,7 @@ using System.Data.SqlClient;
 using System.Drawing;
 
 namespace Zatco
+
 {
     public partial class Set_Location : Form
     {
@@ -63,6 +64,7 @@ namespace Zatco
             com.Parameters.Add("@Loc",SqlDbType.VarChar,50,"Location");
             com.Parameters.Add("@Min",SqlDbType.Int,4, "Minimum Quantity");
             com.Parameters.Add("@Dis", SqlDbType.VarChar, 50, "Discription");
+
 
             ad.UpdateCommand = com;
         }
