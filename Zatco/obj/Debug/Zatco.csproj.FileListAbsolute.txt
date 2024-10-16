@@ -1,0 +1,592 @@
+G:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe.config
+G:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe
+G:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.pdb
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Form1.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Properties.Resources.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.csproj.GenerateResource.Cache
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.exe
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.pdb
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Add_User.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.chang_pass.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Dele_User.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Login.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.parts.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.new_inv.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Company.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Boats.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Engines.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.suppliers.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.add_Request.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.set_Location.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edit_Invoice.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Need_added.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Storge_show.resources
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.New_QUN.resources
+G:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe.manifest
+G:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.application
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.exe.manifest
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.application
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.csprojResolveAssemblyReference.cache
+G:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.search_Part.resources
+F:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe.config
+F:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe.manifest
+F:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.application
+F:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe
+F:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.pdb
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.csprojResolveAssemblyReference.cache
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Boats.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.chang_pass.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Company.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Dele_User.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edit_Invoice.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Engines.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Form1.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Add_User.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Login.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Need_added.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.new_inv.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.New_QUN.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.parts.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Properties.Resources.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.search_Part.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Set_Location.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Storge_show.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.suppliers.resources
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.csproj.GenerateResource.Cache
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.exe.manifest
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.application
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.exe
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.pdb
+F:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Add_permission.resources
+D:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe.config
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.exe
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.pdb
+D:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe.manifest
+D:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.application
+D:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe
+D:\Dropbox\Zatco\Zatco\Zatco\bin\Debug\Zatco.pdb
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.csprojResolveAssemblyReference.cache
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Boats.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.chang_pass.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Company.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edit_Invoice.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Engines.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Form1.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Add_User.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Login.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Need_added.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.New_QUN.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.parts.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Properties.Resources.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.search_Part.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Set_Location.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Storge_show.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.suppliers.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.csproj.GenerateResource.Cache
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.exe.manifest
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.application
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Models.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edite_Eng.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Add_Group.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Groups.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Perview_company.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.offers_show.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Inventory.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edite_Receiving.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edit_Add_permission.resources
+D:\Zatco\Zatco\bin\Debug\Zatco.exe.config
+D:\Zatco\Zatco\obj\Debug\Zatco.exe
+D:\Zatco\Zatco\obj\Debug\Zatco.pdb
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.all_inventory.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.supplier_data.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Engines_data.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Part_s_add.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.INVOICE.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco._Receiving_permission.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco._add_permission.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Offers.resources
+D:\Dropbox\Zatco\Zatco\Zatco\obj\Debug\Zatco.Insert_to_invoice.resources
+E:\zatco program\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe.config
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.exe
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.pdb
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.csprojResolveAssemblyReference.cache
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Add_Group.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.all_inventory.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Boats.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.chang_pass.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Company.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edit_Invoice.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edite_Eng.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edite_Receiving.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edit_Add_permission.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Engines.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Engines_data.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Groups.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Insert_to_invoice.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Inventory.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.INVOICE.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Models.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Form1.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Add_User.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Login.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Need_added.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.New_QUN.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.offers_show.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Offers.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Part_s_add.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.parts.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Perview_company.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Properties.Resources.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.search_Part.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Set_Location.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Storge_show.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.suppliers.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.supplier_data.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco._add_permission.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco._Receiving_permission.resources
+E:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.csproj.GenerateResource.Cache
+D:\zatco program\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe.config
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.exe
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.pdb
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.csprojResolveAssemblyReference.cache
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Add_Group.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.all_inventory.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Boats.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.chang_pass.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Company.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edit_Invoice.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edite_Eng.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edite_Receiving.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edit_Add_permission.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Engines.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Engines_data.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Groups.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Insert_to_invoice.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Inventory.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.INVOICE.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Models.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Form1.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Add_User.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Login.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Need_added.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.New_QUN.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.offers_show.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Offers.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Part_s_add.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.parts.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Perview_company.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Properties.Resources.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.search_Part.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Set_Location.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Storge_show.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.suppliers.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.supplier_data.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco._add_permission.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco._Receiving_permission.resources
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.csproj.GenerateResource.Cache
+D:\zatco program\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe.manifest
+D:\zatco program\Zatco\Zatco\Zatco\bin\Debug\Zatco.application
+D:\zatco program\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe
+D:\zatco program\Zatco\Zatco\Zatco\bin\Debug\Zatco.pdb
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.exe.manifest
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.application
+D:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Report.resources
+D:\Zatco\Zatco\bin\Debug\Zatco.exe.manifest
+D:\Zatco\Zatco\bin\Debug\Zatco.application
+D:\Zatco\Zatco\bin\Debug\Zatco.exe
+D:\Zatco\Zatco\bin\Debug\Zatco.pdb
+D:\Zatco\Zatco\obj\Debug\Zatco.csprojResolveAssemblyReference.cache
+D:\Zatco\Zatco\obj\Debug\Zatco.Add_Group.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.all_inventory.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Boats.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.chang_pass.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Company.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Edit_Invoice.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Edite_Eng.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Edite_Receiving.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Edit_Add_permission.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Engines.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Engines_data.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Groups.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Insert_to_invoice.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Inventory.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.INVOICE.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Models.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Form1.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Add_User.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Login.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Need_added.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.New_QUN.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.offers_show.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Offers.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Part_s_add.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.parts.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Perview_company.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Properties.Resources.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Report.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.search_Part.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Set_Location.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.Storge_show.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.suppliers.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.supplier_data.resources
+D:\Zatco\Zatco\obj\Debug\Zatco._add_permission.resources
+D:\Zatco\Zatco\obj\Debug\Zatco._Receiving_permission.resources
+D:\Zatco\Zatco\obj\Debug\Zatco.csproj.GenerateResource.Cache
+D:\Zatco\Zatco\obj\Debug\Zatco.exe.manifest
+D:\Zatco\Zatco\obj\Debug\Zatco.application
+F:\zatco program\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe.config
+F:\zatco program\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe.manifest
+F:\zatco program\Zatco\Zatco\Zatco\bin\Debug\Zatco.application
+F:\zatco program\Zatco\Zatco\Zatco\bin\Debug\Zatco.exe
+F:\zatco program\Zatco\Zatco\Zatco\bin\Debug\Zatco.pdb
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.csprojResolveAssemblyReference.cache
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Add_Group.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.all_inventory.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Boats.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.chang_pass.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Company.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Con_DB_Get.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edit_Invoice.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edite_Eng.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edite_Receiving.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Edit_Add_permission.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Engines.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Engines_data.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Groups.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Insert_to_invoice.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Inventory.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.INVOICE.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Models.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Form1.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Add_User.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Login.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Need_added.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.offers_show.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Offers.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Part_s_add.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.parts.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Perview_company.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Properties.Resources.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Report.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.search_Part.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Set_Location.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Storge_show.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.suppliers.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.supplier_data.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco._add_permission.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco._Receiving_permission.resources
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.csproj.GenerateResource.Cache
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.exe.manifest
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.application
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.exe
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.pdb
+F:\zatco program\Zatco\Zatco\Zatco\obj\Debug\Zatco.Reports_Loction.resources
+D:\zatco program\Zatco\Zatco\bin\Debug\Zatco.exe.config
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.exe
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.pdb
+\\Srhamada-pc\d\zatco program\Zatco\Zatco\bin\Debug\Zatco.exe.config
+\\Srhamada-pc\d\zatco program\Zatco\Zatco\obj\Debug\Zatco.exe
+\\Srhamada-pc\d\zatco program\Zatco\Zatco\obj\Debug\Zatco.pdb
+F:\zatco program\new zatco\Zatco\bin\Debug\Zatco.exe.config
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.exe
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.pdb
+F:\zatco program\new zatco\Zatco\bin\Debug\Zatco.exe.manifest
+F:\zatco program\new zatco\Zatco\bin\Debug\Zatco.application
+F:\zatco program\new zatco\Zatco\bin\Debug\Zatco.exe
+F:\zatco program\new zatco\Zatco\bin\Debug\Zatco.pdb
+F:\zatco program\new zatco\Zatco\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.csprojResolveAssemblyReference.cache
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Add_Group.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.all_inventory.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Boats.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.chang_pass.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Company.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Con_DB_Get.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Edit_Invoice.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Edite_Eng.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Edite_Receiving.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Edit_Add_permission.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Engines.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Engines_data.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Groups.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Insert_to_invoice.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Inventory.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.INVOICE.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Models.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Form1.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Add_User.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Login.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Need_added.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.offers_show.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Offers.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Part_s_add.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.parts.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Perview_company.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Properties.Resources.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Report.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Reports_Loction.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.search_Part.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Set_Location.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.Storge_show.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.suppliers.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.supplier_data.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco._add_permission.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco._Receiving_permission.resources
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.csproj.GenerateResource.Cache
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.exe.manifest
+F:\zatco program\new zatco\Zatco\obj\Debug\Zatco.application
+D:\new zatco\Zatco\bin\Debug\Zatco.exe.config
+D:\new zatco\Zatco\obj\Debug\Zatco.exe
+D:\new zatco\Zatco\obj\Debug\Zatco.pdb
+D:\new zatco\Zatco\bin\Debug\Zatco.exe.manifest
+D:\new zatco\Zatco\bin\Debug\Zatco.application
+D:\new zatco\Zatco\bin\Debug\Zatco.exe
+D:\new zatco\Zatco\bin\Debug\Zatco.pdb
+D:\new zatco\Zatco\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\new zatco\Zatco\obj\Debug\Zatco.csprojResolveAssemblyReference.cache
+D:\new zatco\Zatco\obj\Debug\Zatco.Add_Group.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.all_inventory.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Boats.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.chang_pass.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Company.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Con_DB_Get.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Edit_Invoice.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Edite_Eng.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Edite_Receiving.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Edit_Add_permission.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Engines.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Engines_data.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Groups.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Insert_to_invoice.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Inventory.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.INVOICE.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Models.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Form1.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Add_User.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Login.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Need_added.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.offers_show.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Offers.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Part_s_add.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.parts.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Perview_company.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Properties.Resources.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Report.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Reports_Loction.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.search_Part.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Set_Location.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.Storge_show.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.suppliers.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.supplier_data.resources
+D:\new zatco\Zatco\obj\Debug\Zatco._add_permission.resources
+D:\new zatco\Zatco\obj\Debug\Zatco._Receiving_permission.resources
+D:\new zatco\Zatco\obj\Debug\Zatco.csproj.GenerateResource.Cache
+D:\new zatco\Zatco\obj\Debug\Zatco.exe.manifest
+D:\new zatco\Zatco\obj\Debug\Zatco.application
+D:\zatco program\Zatco\Zatco\bin\Debug\Zatco.exe.manifest
+D:\zatco program\Zatco\Zatco\bin\Debug\Zatco.application
+D:\zatco program\Zatco\Zatco\bin\Debug\Zatco.exe
+D:\zatco program\Zatco\Zatco\bin\Debug\Zatco.pdb
+D:\zatco program\Zatco\Zatco\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.csprojResolveAssemblyReference.cache
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Add_Group.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.all_inventory.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Boats.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.chang_pass.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Company.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Con_DB_Get.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Edit_Invoice.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Edite_Eng.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Edite_Receiving.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Edit_Add_permission.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Engines.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Engines_data.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Groups.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Insert_to_invoice.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Inventory.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.INVOICE.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Models.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Form1.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Add_User.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Login.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Need_added.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.offers_show.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Offers.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Part_s_add.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.parts.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Perview_company.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Properties.Resources.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Report.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Reports_Loction.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.search_Part.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Set_Location.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.Storge_show.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.suppliers.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.supplier_data.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco._add_permission.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco._Receiving_permission.resources
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.csproj.GenerateResource.Cache
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.exe.manifest
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.application
+D:\zatco program\Zatco\Zatco\obj\Debug\Interop.DSOFile.dll
+D:\zatco program\Zatco\Zatco\obj\Debug\Zatco.csproj.ResolveComReference.cache
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\Zatco.exe.config
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\Zatco.exe.manifest
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\Zatco.application
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\Zatco.exe
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\Zatco.pdb
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.csproj.AssemblyReference.cache
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Add_Group.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.all_inventory.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Boats.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.chang_pass.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Company.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Con_DB_Get.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Edit_Invoice.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Edite_Eng.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Edite_Receiving.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Edit_Add_permission.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Engines.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Engines_data.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Groups.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Insert_to_invoice.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Inventory.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.INVOICE.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Models.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Form1.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Add_User.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Login.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Need_added.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.offers_show.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Offers.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Part_s_add.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.parts.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Perview_company.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Properties.Resources.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Report.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Reports_Loction.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.search_Part.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Set_Location.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Storge_show.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.suppliers.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.supplier_data.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.csproj.GenerateResource.cache
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.csproj.CoreCompileInputs.cache
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.exe.manifest
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.application
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.csproj.Up2Date
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.exe
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.pdb
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Part_info.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\EPPlus.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\EPPlus.Interfaces.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\EPPlus.System.Drawing.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Buffers.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.ComponentModel.Annotations.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Formats.Asn1.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Memory.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Numerics.Vectors.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Text.Encodings.Web.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Text.Json.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.ValueTuple.dll
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\EPPlus.xml
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Buffers.xml
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Formats.Asn1.xml
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Memory.xml
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Numerics.Vectors.xml
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Text.Encodings.Web.xml
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Text.Json.xml
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\bin\Debug\System.ValueTuple.xml
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.csproj.SuggestedBindingRedirects.cache
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.exe.config
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Receiving_permission.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.Add_permission.resources
+C:\ملفات الجهاز\فواتير وحسابات 2023\ZatcoDb\Zatco\Zatco\obj\Debug\Zatco.tring_form.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\Zatco.exe.config
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\Zatco.exe.manifest
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\Zatco.application
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\Zatco.exe
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\Zatco.pdb
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\EPPlus.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Buffers.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Formats.Asn1.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Memory.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Text.Json.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.ValueTuple.dll
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\EPPlus.xml
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Buffers.xml
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Formats.Asn1.xml
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Memory.xml
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Text.Json.xml
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\bin\Debug\System.ValueTuple.xml
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.csproj.AssemblyReference.cache
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.csproj.SuggestedBindingRedirects.cache
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.exe.config
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Add_Group.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.all_inventory.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Boats.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.chang_pass.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Company.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Con_DB_Get.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Edit_Invoice.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Edite_Eng.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Edite_Receiving.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Edit_Add_permission.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Engines.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Engines_data.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Part_info.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Groups.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Insert_to_invoice.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Inventory.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.INVOICE.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Models.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Form1.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Add_User.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Login.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Need_added.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.offers_show.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Offers.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Part_s_add.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.parts.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Perview_company.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Properties.Resources.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Report.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Reports_Loction.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.search_Part.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Set_Location.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Storge_show.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.suppliers.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.supplier_data.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Add_permission.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.Receiving_permission.resources
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.csproj.GenerateResource.cache
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.csproj.CoreCompileInputs.cache
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.exe.manifest
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.application
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.csproj.Up2Date
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.exe
+C:\Users\manqo\Documents\GitHub\Zatco\Zatco\obj\Debug\Zatco.pdb
