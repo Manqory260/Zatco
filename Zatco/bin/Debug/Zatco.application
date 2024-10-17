@@ -7,14 +7,14 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Zatco.exe.manifest" size="15186">
+    <dependentAssembly dependencyType="install" codebase="Zatco.exe.manifest" size="15937">
       <assemblyIdentity name="Zatco.exe" version="1.1.1.54" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VKyKN5+QKL4zB4af1xRme4wNPGlbgOiCiO9KSf397/o=</dsig:DigestValue>
+        <dsig:DigestValue>huic29RJs22N+aw1jCibfNUPMfauv7R4dLqC+nMqLgc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

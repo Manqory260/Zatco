@@ -865,7 +865,7 @@ namespace Zatco
             this.button1.ForeColor = System.Drawing.Color.DarkRed;
             this.button1.ImageKey = "close.png";
             this.button1.ImageList = this.imageList1;
-            this.button1.Location = new System.Drawing.Point(877, 526);
+            this.button1.Location = new System.Drawing.Point(873, 526);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(40, 40);
             this.button1.TabIndex = 9;
